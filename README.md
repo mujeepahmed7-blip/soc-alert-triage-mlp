@@ -214,6 +214,6 @@ streamlit run app/dashboard.py
 
 ## المؤلف
 
-**مجيب**
+**مجيب محمود صالح**
 
 </div>
