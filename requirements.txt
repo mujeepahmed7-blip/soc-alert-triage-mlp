@@ -1,0 +1,8 @@
+tensorflow==2.21.0
+scikit-learn==1.9.1
+shap==0.51.0
+streamlit==1.67.0
+pandas
+numpy
+pyarrow
+huggingface_hub
